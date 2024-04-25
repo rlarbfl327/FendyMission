@@ -1,0 +1,44 @@
+* {
+    margin: 0auto;
+    padding: 0;
+    justify-content: center;
+  }
+  
+  html {}
+  
+  body {
+    width: 1600px;
+    margin: 0 auto;
+  }
+  
+  main {
+    display: inline-block;
+  }
+  
+  footer {}
+  
+  
+  .first_images {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 200px 200px 200px 200px 200px 200px;
+  }
+  
+  .first_images div {
+  }
+  
+  
+  .second_btn {
+    text-align: center;
+  }
+  
+  .second_btn div {}
+  
+  
+  .third_images {
+    display: flex;
+  }
+  
+  .third_images div {
+    display: flex;
+  }
